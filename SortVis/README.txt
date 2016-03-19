@@ -1,4 +1,4 @@
-This script visualiszes the bubble-sort algorithm
+This script visualizes the bubble-sort algorithm
 
 Hey! 
 Set the variable PATH in Sort.py to the location of graphics.py 
