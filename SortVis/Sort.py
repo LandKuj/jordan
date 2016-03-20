@@ -24,11 +24,10 @@ SLEEP_TIME = 2
 
 # DEFINE SUPPORT METHODS
 def isSorted(array):
-        out = True
         for i in xrange(RANGE_SIZE - 1):
                 if array[i] < array[i + 1]:
-                        out = False
-        return out
+                        return False
+        return True
 
 
 
